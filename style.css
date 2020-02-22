@@ -58,7 +58,8 @@ main{
 
 h1{
     text-align:center;
-    font-size: 3em;
+    font-size: 2em;
+  
 
 }
 
@@ -135,7 +136,7 @@ img{
     display: block;
 }
 
-@media  only screen and (max-width: 500px) {
+@media  only screen and (max-width: 600px) {
     
     .grid {grid-template-columns: 15% 85%;}
 
@@ -143,7 +144,7 @@ img{
     
     h1{
         font-size: 1em;
-        padding: 2em;
+    
     }
 
     li {
